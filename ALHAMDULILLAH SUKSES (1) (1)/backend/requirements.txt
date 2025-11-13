@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pandas
-supabase
-python-dotenv
-numpy
-kmodes
